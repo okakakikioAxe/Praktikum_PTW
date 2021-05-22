@@ -15,6 +15,6 @@ class PageController extends Controller
     }
 
     public function contactus(){
-        return view('contactus');
+        return view('contactus0292');
     }
 }
