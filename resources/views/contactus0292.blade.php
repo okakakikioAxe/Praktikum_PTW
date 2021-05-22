@@ -4,7 +4,7 @@
 
 @section('konten')
     <div class="container">
-        <img src="foto.png" class="rounded-circle mx-auto d-block" alt="..." style="width: 20%;height: auto;">
+        <img src="{{asset('gambar/foto.png')}}" class="rounded-circle mx-auto d-block" alt="..." style="width: 20%;height: auto;">
         <br>
         <br>
         <div class="container">
