@@ -12,14 +12,14 @@
               <div class="col">
                 
               </div>
-              <div class="col">
+              <div class="col-5">
                 <div class="container">
                   <div class="row">
-                    <div class="col">
+                    <div class="col-2">
                       <img src="{{asset('gambar/phone.png')}}" class="rounded d-block " alt="..." style="display: block;max-width: 35px;height: auto;">
                     </div>
-                    <div class="col float-start">
-                      <h5>082245851632</h5>
+                    <div class="col">
+                      <h5 style="float: left;">082245851632</h5>
                     </div>
                   </div>
                 </div>
@@ -36,14 +36,14 @@
               <div class="col">
                 
               </div>
-              <div class="col">
+              <div class="col-5">
                 <div class="container">
                   <div class="row">
-                    <div class="col">
+                    <div class="col-2">
                       <img src="{{asset('gambar/email.png')}}" class="rounded d-block " alt="..." style="display: block;max-width: 35px;height: auto;">
                     </div>
                     <div class="col">
-                      <h5>okakakikio@gmail.com</h5>
+                      <h5 style="float: left;">lukmanmuhamadilham@gmail.com</h5>
                     </div>
                   </div>
                 </div>
