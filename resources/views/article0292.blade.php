@@ -1,6 +1,6 @@
 @extends ('layout/template')
 
-@section('title','home')
+@section('title','article')
 
 @section('konten')
     <br>
