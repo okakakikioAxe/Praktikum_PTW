@@ -15,7 +15,7 @@
           <article>
             <h1>Pengenalan Apa Itu Framework dan Jenisnya</h1>
             <br>
-            <img src="framework3.jpg" class="rounded d-block" alt="...">
+            <img src="{{asset('gambar/framework3.jpg')}}" class="rounded d-block" alt="...">
             <br>
             <br>
             <p>
