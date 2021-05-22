@@ -72,12 +72,12 @@
                 <div class="container text-center">
                   <div class="row">
                     <div class="col">
-                      <a href="#">
+                      <a href="https://www.facebook.com/lukman.m.16">
                         <img src="facebook.png" class="rounded d-inline-block m-2" alt="..." style="max-width: 35px;height: auto;">
                       </a>
                     </div>
                     <div class="col">
-                      <a href="#">
+                      <a href="https://www.instagram.com/lukman_10101/">
                         <img src="instagram.png" class="rounded d-inline-block m-2" alt="..." style="max-width: 35px;height: auto;">
                       </a>
                     </div>
